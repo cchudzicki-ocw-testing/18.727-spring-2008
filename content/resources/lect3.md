@@ -4,7 +4,12 @@ description: Lecture notes on birational maps, rational maps, linear systems, an
   properties of birational maps between surfaces.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/1ac4b82daa4485674ad67c21b5a49e7a_lect3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 3
+type: OCWFile
 uid: 1ac4b82d-aa44-8567-4ad6-7c21b5a49e7a
 ---

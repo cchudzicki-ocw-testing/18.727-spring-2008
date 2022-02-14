@@ -3,7 +3,12 @@ content_type: resource
 description: Lecture notes on linear systems and rational normal scrolls.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/d7105c4a8477abd296728296a5a7eebb_lect8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 8
+type: OCWFile
 uid: d7105c4a-8477-abd2-9672-8296a5a7eebb
 ---
